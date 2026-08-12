@@ -63,3 +63,13 @@ The dashboard provides an overview of business performance and helps identify:
 The Power BI dashboard is available in this repository as:
 
 Sales_Analysis_Dashboard.pbix
+## 📸 Dashboard Preview
+
+### Overview
+![Overview](overview.png)
+
+### Regional Analysis
+![Regional Analysis](regional_analysis.png)
+
+### Sales & Profit Analysis
+![Sales & Profit Analysis](sales_profit_analysis.png)
